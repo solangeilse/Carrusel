@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#menufijo {
+    background-color: #FFF7AE;
+    height: 100px;
+    width: 480px;
+    margin-left: 33%;
+    position: fixed;
+    z-index: 100;
+}
+#contenido {
+    color: #FF5558;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
